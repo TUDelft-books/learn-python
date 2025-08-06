@@ -46,3 +46,9 @@ Note that you will need a GitHub account to do this. Once your edit or Issue is 
 If this doesn't work for you, feel free to simply send an email to MUDE-CEG@tudelft.nl.
 
 There is also a Survey at the bottom end of the course, and we would greatly appreciate it if you could give us feedback by filling it out.
+
+## Previous Editions of this Book
+
+Beginning in August, 2025, this book was moved from host URL `teachbooks.io` to `oit.tudelft.nl`; visiting [oit.tudelft.nl/learn-python](https://oit.tudelft.nl/learn-python) will automatically resolve to the newest version of the book (replace 2025 with 2024 in the URL to visit the "old" structure).
+
+In 2025 a major update to the book structure was implemented (although the contents remained the same). For readers, minor improvements to the book from 2025 onward will be noted on relevant pages. For those who desire a more thorough overview of updates, visit the [Release Notes of the GitHub repository](https://github.com/TUDelft-books/learn-python/releases).
