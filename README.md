@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/TUDelft-CITG/learn-python/main/book/figures/learn-python-logo.png" width=80 style="float: right;"/>
 
-[![DOI](https://zenodo.org/badge/16753127.svg)](https://doi.org/10.5281/zenodo.16753127)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16753127.svg)](https://doi.org/10.5281/zenodo.16753127)
 [![Jupyter Book Badge](https://raw.githubusercontent.com/executablebooks/jupyter-book/47e06598ef05bd429467a7de66a7fb3a83e89c2f/docs/images/badge.svg)](https://jupyterbook.org) 
 [![Jupyter lite Badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://github.com/jupyterlite)
 
@@ -48,7 +48,7 @@ The primary mechanism for updating the book is by making a new GitHub Release. I
 Once content changes are made, do the following:
 
 1. Determine what the next version number is. Major updates should be rare (maximum once per academic year); minor updates should correspond to new pages, exercises, etc., whereas patches should fix typos or other small changes that do not affect the technical contents of the book.
-1. Document the changes clearly in a draft release note.
+1. Document the changes clearly in a draft release note. If no changes to the book contents are made, write, e.g.: _This release makes no changes to the technical contents of the book._
 1. Add notes to readers about minor changes on the relevant pages of the book (see TeachBooks Manual for suggestions).
 1. Check the metadata files listed above and make any necessary changes, noting: a) the CITATION.cff file only needs to be updated in case of additional authors being added, and b) the recommended citation on the Credits page only needs to be updated when the major version is updated.
 1. Publish release.
