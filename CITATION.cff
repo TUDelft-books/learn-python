@@ -4,15 +4,20 @@
 cff-version: 1.2.0
 title: >-
   Python for Engineers
+message: >-
+  This record preserves the source code for the MUDE Textbook
+  and is updated automatically by Zenodo. See the README of the
+  repository or the Credits page of the book for additional
+  information.
+  
+  Note that the citation listed on the Zenodo page is incorrect
+  (see the Credits page).
 type: software
 authors:
   - given-names: Robert
     family-names: Lanzafame
   - given-names: Sandra
     family-names: Verhagen
-  - given-names: Tom
-    family-names: Woudenberg
-    name-particle: van
   - given-names: Guilherme Ferreira Sêco
     family-names: Alvarenga
     name-particle: de
@@ -26,7 +31,16 @@ identifiers:
     description: Zenodo DOI for the book and source code
 repository-code: 'https://github.com/TUDelft-books/learn-python'
 abstract: >-
-  This repository contains the source code for Python for Engineers, a self-paced online course, which is meant to be a way to provide (and refresh) knowledge of Python. This course was originally developed for students in the fields of: Civil Engineering, Environmental Engineering, Applied Earth Sciences and Construction Management and Engineering. These programs are part of the faculty of Civil Engineering and Geosciences at Delft University of Technology in the Netherlands. We try to draw on examples from these fields, but the course contents should be relevant for any engineering or applied geoscience discipline.
+  This repository contains the source code for Python for Engineers,
+  a self-paced online course, which is meant to be a way to provide
+  (and refresh) knowledge of Python. This course was originally
+  developed for students in the fields of: Civil Engineering,
+  Environmental Engineering, Applied Earth Sciences and Construction
+  Management and Engineering. These programs are part of the faculty
+  of Civil Engineering and Geosciences at Delft University of
+  Technology in the Netherlands. We try to draw on examples from
+  these fields, but the course contents should be relevant for any
+  engineering or applied geoscience discipline.
 keywords:
   - open interactive textbook
   - education
