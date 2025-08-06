@@ -1,3 +1,4 @@
+(sympy)=
 # SymPy
 
 SymPy is a Python library for symbolic mathematics. You can use it as a tool to evaluate basic and complicated math operations, whenever they become tedious or error prone.
