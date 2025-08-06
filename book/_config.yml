@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Python for Civil Engineers
-author: TU Delft Teachers and TAs, built with <a href="https://teachbooks.tudelft.nl/">TeachBooks</a> and <a href="https://jupyterbook.org/">Jupyter Book</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""></a>
+author: TU Delft Teachers and TAs, built with <a href="https://teachbooks.io/">TeachBooks</a> and <a href="https://jupyterbook.org/">Jupyter Book</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""></a>
 logo: figures/learn-python-logo-TUD-tight.png
 
 # Force re-execution of notebooks on each build.
@@ -21,7 +21,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/TeachBooks/learn-python # Online location of your book
+  url: https://github.com/TUDelft-books/learn-python # Online location of your book
   path_to_book: book  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
@@ -36,7 +36,7 @@ html:
   use_repository_button: true
   use_edit_page_button: true
   use_multitoc_numbering: false
-  announcement: "<p>This book was recently updated for the 2025-26 academic year. The previous version of the book can be found at <a href='https://teachbooks.io/learn-python/2024' style='color: cyan;'>teachbooks.io/learn-python/2024</a></p>"
+  announcement: "<p>This book was recently updated for the 2025-26 academic year. The previous version of the book can be found at <a href='https://oit.tudelft.nl/learn-python/2024' style='color: cyan;'>oit.tudelft.nl/learn-python/2024</a></p>"
   extra_navbar: |
       <div>
           <IMG SRC="https://raw.githubusercontent.com/mbakker7/exploratory_computing_with_python/master/tudelft_logo.png" WIDTH=200 ALIGN="center">
