@@ -2,15 +2,6 @@
 
 Matplotlib is a Python module that allows you to create visualizations. Until now, you have probably used Excel to make graphs, but Python offers much more versatility. In this section, you will learn how to use <b><code>matplotlib</code></b> to make good-looking graphs.
 
-As always, let's import the module. We will also import numpy and pandas.
-
-
-```python
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
-```
-
 From the <b><code>matplotlib</code></b> library we will discuss the following functions:
 - <b><code>plt.subplot()</code></b>
 - <b><code>plt.plot()</code></b>
@@ -22,3 +13,4 @@ From the <b><code>matplotlib</code></b> library we will discuss the following fu
 - <b><code>plt.grid()</code></b>
 - <b><code>plt.show()</code></b>
 
+In addition to `matplotlib`, we will often import Numpy (and occasionally Pandas) to help us with the numerical computations.
