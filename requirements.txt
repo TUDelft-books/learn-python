@@ -1,9 +1,5 @@
 teachbooks
 matplotlib
-numpy
 jupyterquiz
-pandas
-jupyterbook-patches
-download_link_replacer
 
-git+https://github.com/TeachBooks/Sphinx-Thebe
+git+https://github.com/TeachBooks/TeachBooks-Favourites
